@@ -1,4 +1,4 @@
-# VLSI
+
 # Custom IC & VLSI Circuit Design Suite (Cadence Virtuoso)
 
 An end-to-end implementation and characterization of fundamental CMOS digital and memory circuits designed in **Cadence Virtuoso** using the **Spectre Simulation Platform** and industry-standard physical verification flows.
